@@ -1,0 +1,21 @@
+{
+    "conv_subsample_lengths": [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2],
+    "conv_filter_length": 16,
+    "conv_num_filters_start": 32,
+    "conv_dropout": 0.2,
+    "conv_num_skip": 2,
+    "conv_increase_channels_at": 4,
+
+    "batch_size": 128,
+
+    "exp_name": "mitbih",
+    "exp_dir": "experiments/",
+    "device": "cuda",
+    "lr": 0.0001,
+    "mapping_json": "data/class-mapper.json",
+    "train_json": "data/train_Heartnet.json",
+    "val_json": "data/val_Heartnet.json",
+    "epochs": 20,
+    "num_workers": 4,
+    "num_categories": 8
+}
