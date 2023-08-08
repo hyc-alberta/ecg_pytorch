@@ -2,7 +2,7 @@
 This project is a personal practice to enhance coding skills. Please refer to [this page](https://github.com/awni/ecg) for original essay and code.
 The original work is based on Keras, and this one is based on Pytorch. The code for data generation and data processing is mostly taken from
 [this repository](https://github.com/lxdv/ecg-classification), and you can refer to it for more details. The dataset used here is mit-bih.
-Config.json contains most of important information of the model. 
+Config.json contains most of important information of the model. The version of pytorch here is 1.13.
 
 Below are some rough results of a model trained for 20 epochs.
 
