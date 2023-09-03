@@ -1,5 +1,5 @@
 # ecg_pytorch
-This ecg-classification project is a personal practice intended to enhance coding skills. Please refer to [this page](https://github.com/awni/ecg) for original essay and code.
+Please refer to [this page](https://github.com/awni/ecg) for original essay and code.
 The original work is based on Keras, and this one is based on Pytorch. The code for data generation and data processing is mostly taken from
 [this repository](https://github.com/lxdv/ecg-classification), and you can refer to it for more details. 
 
